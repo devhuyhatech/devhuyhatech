@@ -9,7 +9,7 @@ I'm a passionate **React Native** and **full-stack JavaScript** developer who lo
   - **Backend**: Node.js, Express, MongoDB
   - **Tools**: Git, Docker, Redux, Firebase
 
-- 🌱 **Currently Learning**: TypeScript and GraphQL
+- 🌱 **Currently Learning**: Swift and Flutter
 
 ## 🛠️ Skills
 
