@@ -23,8 +23,8 @@ I'm a passionate **React Native** and **full-stack JavaScript** developer who lo
 I’m always eager to connect with fellow developers and explore new opportunities! You can reach me at:
 
 - 📧 Email: [dev.huyha.tech@gmail.com]
-- 🌐 Portfolio: [https://huyha.tech/]
-- 🌐 Blog: [https://blog.huyha.tech/]
+- 🌐 Portfolio: [https://huyha.tech/about/]
+- 🌐 Blog: [https://huyha.tech/]
 
 ---
 
